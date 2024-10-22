@@ -1,2 +1,3 @@
 //Anotar tu nomnbre en una nueva linea de c'odigo con un debug.log
 Debug.Log("Ali");
+Debug.Log("Mej'ia");
